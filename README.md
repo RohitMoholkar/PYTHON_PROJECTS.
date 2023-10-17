@@ -2,3 +2,4 @@
 
 ### Project1 description 
 - For loops, While loop, if-else conditions, and user-defined functions have all been heavily utilized in this project. 
+- This program can provide a particular output based on your input. 
