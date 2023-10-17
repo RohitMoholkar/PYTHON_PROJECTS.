@@ -6,4 +6,5 @@
 - There are a total of five options in the program from which you can choose.
 - [1. CHECK ACCOUNT BALANCE, 2. DEPOSIT MONEY, 3. WITHDRAW MONEY, 4. Back to Options, 5. EXIT] 
 - E.g. The account balance will be printed if you choose the check account balance option.
-- And based on their functioning, other options will perform similarly. 
+- And based on their functioning, other options will perform similarly.
+- Through this project, I gained knowledge of loops, function, if-else condition and how to structure a program proper way. 
