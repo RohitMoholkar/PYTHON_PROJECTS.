@@ -1,1 +1,1 @@
-In this repository I have added all basic python projects.
+### I've included all of the basic Python projects in this repository.
