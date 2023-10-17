@@ -1,2 +1,1 @@
-# PYTHON_PROJECTS
-Basic/Easy Level Python Projects.
+In this repository I have added all basic python projects.
