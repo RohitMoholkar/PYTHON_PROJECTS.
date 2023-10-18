@@ -1,7 +1,7 @@
 ## I've included all of the basic Python Projects in this repository.
 
 ### Project1 description 
-##### - Project Name: ATM SYSTEM USING PYTHON. 
+- Project Name: ATM SYSTEM USING PYTHON. 
 - For loops, While loop, if-else conditions, and user-defined functions have all been heavily utilized in this project. 
 - This program can provide a particular output based on your input.
 - There are a total of five options in the program from which you can choose.
