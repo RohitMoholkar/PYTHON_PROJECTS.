@@ -2,10 +2,17 @@
 
 ### Project1 description 
 - Project Name: **ATM SYSTEM USING PYTHON.**
+- The "ATM System using Python" project simulates the functionality of an Automated Teller Machine (ATM) through a text-based interface.
+- Users can perform several banking operations, including checking their account balance, depositing money, and withdrawing money.
 - For loops, While loop, if-else conditions, and user-defined functions have all been heavily utilized in this project. 
 - This program can provide a particular output based on your input.
 - There are a total of five options in the program from which you can choose.
-- [1. CHECK ACCOUNT BALANCE, 2. DEPOSIT MONEY, 3. WITHDRAW MONEY, 4. Back to Options, 5. EXIT] 
-- E.g. The account balance will be printed if you choose the check account balance option.
-- And based on their functioning, other options will perform similarly.
-- Through this project, I gained knowledge of loops, function, if-else condition and how to structure a program proper way. 
+- [1. CHECK ACCOUNT BALANCE, 2. DEPOSIT MONEY, 3. WITHDRAW MONEY, 4. Back to Options, 5. EXIT]
+- Run the script, and the program will display a welcome message and prompt the user for their ID and password.
+- User Authentication: Users are required to enter a valid ID and password to access their accounts. If the provided credentials match the predefined values, the user is granted access; otherwise, they are denied access.
+- Account Balance: Users can check their account balance, which is initially set to 500000.
+- Deposit: Users can deposit money into their accounts by specifying the amount they want to deposit.
+- Withdrawal: Users can withdraw money from their accounts, provided they have sufficient funds.
+- Menu System: The program offers a menu-driven system for users to select the desired operation, including returning to the main menu or exiting the program. 
+- Users can return to the main menu or exit the program. 
+- This project serves as a starting point for understanding basic principles of user authentication and simple banking operations. Through this project, I gained knowledge of loops, function, if-else condition and how to structure a program proper way. 
