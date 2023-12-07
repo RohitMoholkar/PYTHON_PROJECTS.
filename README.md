@@ -1,6 +1,6 @@
-## I've included the Python Projects in this repository.
+## I have included the Python Projects in this Repository.
 
-### Project1 description 
+### Project1 Description. 
 - Project Name: **ATM SYSTEM USING PYTHON.**
 - The "ATM System using Python" project simulates the functionality of an Automated Teller Machine (ATM) through a text-based interface.
 - Users can perform several banking operations, including checking their account balance, depositing money, and withdrawing money.
