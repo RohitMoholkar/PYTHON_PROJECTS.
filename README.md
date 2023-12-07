@@ -1,4 +1,4 @@
-## I've included all of the simple Python Projects in this repository.
+## I've included the Python Projects in this repository.
 
 ### Project1 description 
 - Project Name: **ATM SYSTEM USING PYTHON.**
